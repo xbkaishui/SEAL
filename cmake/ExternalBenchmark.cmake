@@ -3,7 +3,7 @@
 
 FetchContent_Declare(
     benchmark
-    GIT_REPOSITORY https://github.com/google/benchmark.git
+    GIT_REPOSITORY https://ghproxy.com/https://github.com/google/benchmark.git
     GIT_TAG        f91b6b42b1b9854772a90ae9501464a161707d1e # 1.6.0
 )
 FetchContent_GetProperties(benchmark)
